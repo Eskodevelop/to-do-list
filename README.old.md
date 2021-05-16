@@ -3,10 +3,6 @@
 ## My first  real project; TODO List.
 # This is the first version of my project
 
-Before we started we installed:
-MongoDb
-Robo3T (because of problems with robo3T I used MongoDB Compass as well)
-Postman
 ## Running Locally
 1. git clone https://github.com/Eskodevelop/to-do-list
 2. cd to-do-list
