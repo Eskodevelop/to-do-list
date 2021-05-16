@@ -1,0 +1,27 @@
+body {
+    padding: 130px;
+    background-image: ("./todo-list.jpg");
+    background-color: rgb(221, 231, 236 0.5);
+    font-family: sans-serif;
+}
+
+#container {
+    
+    border: tomato;
+    display: flex;
+    justify-content: center;
+}
+
+#head {
+    background-color: lightblue;
+    color: white;
+    width: 335px;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding-top: 5px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
